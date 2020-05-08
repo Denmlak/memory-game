@@ -151,10 +151,10 @@ h3{
 	}
 }
 
-@media (max-width: 520px){
+@media (max-width: 540px){
 	.card{
-		width:80px;
-		height: 80px;
+		width:94px;
+		height: 94px;
 		margin: 2px;
 	}
 	.memory-board{
