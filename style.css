@@ -153,17 +153,25 @@ h3{
 
 @media (max-width: 520px){
 	.card{
-		width:89px;
-		height: 89px;
+		width:80px;
+		height: 80px;
 		margin: 2px;
 	}
 	.memory-board{
 		height: auto;
-		width: 100%;
+		width: 90%;
 	}
 
 	.box p{
 		font-size: 2em;
+	}
+}
+
+@media (max-width: 520px){
+	.card{
+		width:77px;
+		height: 77px;
+		margin: 2px;
 	}
 }
 
