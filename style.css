@@ -159,7 +159,7 @@ h3{
 	}
 	.memory-board{
 		height: auto;
-		width: 90%;
+		width: 100%;
 	}
 
 	.box p{
@@ -176,6 +176,11 @@ h3{
 }
 
 @media (max-width: 361px){
+	.memory-board{
+		height: auto;
+		width: 90%;
+	}
+
 	.card{
 		width:77px;
 		height: 77px;
