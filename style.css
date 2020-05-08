@@ -167,6 +167,14 @@ h3{
 	}
 }
 
+@media (max-width: 414px){
+	.card{
+		width:89px;
+		height: 89px;
+		margin: 2px;
+	}
+}
+
 @media (max-width: 361px){
 	.card{
 		width:77px;
