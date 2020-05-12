@@ -1,4 +1,4 @@
-# memory-game
+# star trek memory-game
 I made this project in eduactional purposes with Vannila JS.
 
 
