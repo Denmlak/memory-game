@@ -8,7 +8,7 @@ body{
 
 h3{
 	text-align: center;
-	font-family: Federation;
+	font-family: 'Federation' , sans-serif;
 	font-size: 3em;
 	border-bottom: solid #fff 2px;
 	padding-bottom: 43px;
